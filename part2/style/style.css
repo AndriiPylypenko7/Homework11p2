@@ -34,7 +34,6 @@
     url("https://nomail.com.ua/files/woff2/35ac14f8a045f0a3f8f171d6b32dd09f.woff2")
       format("woff2");
 }
-
 @font-face {
   font-family: "Georgia";
   src: url("https://nomail.com.ua/files/eot/de6243382a94fdc4813e4cbd4ff7d919.eot?#iefix")
@@ -44,11 +43,9 @@
     url("https://nomail.com.ua/files/woff2/de6243382a94fdc4813e4cbd4ff7d919.woff2")
       format("woff2");
 }
-
 .html {
   background-color: #ffffff;
 }
-
 .page {
   width: 1200px;
   height: 100vh;
@@ -56,7 +53,6 @@
   margin: 0 auto;
   position: relative;
 }
-
 .top-section {
   width: 876px;
   height: 187px;
@@ -68,7 +64,6 @@
   z-index: 1;
   padding-left: 64px;
 }
-
 .top-section__title {
   color: #767676;
   font-family: "Proxima Nova";
@@ -78,7 +73,6 @@
   font-weight: 400;
   margin-top: 50px;
 }
-
 .top-section__input {
   color: #fefefe;
   font-size: 48px;
@@ -88,12 +82,10 @@
   border-right: solid 2px #edeff2;
   max-width: 350px;
 }
-
 .top-section__line {
   color: #ffffff;
   opacity: 0.1;
 }
-
 .selector {
   z-index: 1;
   width: 812px;
@@ -104,13 +96,11 @@
   top: 234px;
   right: 0;
 }
-
 .selector__ul-wrapper {
   position: absolute;
   left: 42px;
   fill: #ffffff;
 }
-
 .selector__item {
   display: inline-block;
   list-style-type: none;
@@ -118,11 +108,9 @@
   cursor: pointer;
   transition: 500ms;
 }
-
 .selector__ul-wrapper:hover .selector__item:not(:hover) {
   fill-opacity: 0.5;
 }
-
 .main-section {
   width: 1060px;
   height: 751px;
@@ -133,20 +121,17 @@
   left: calc(50% - 530px);
   display: flex;
 }
-
 .main-section__left-border {
   flex-basis: 67px;
   height: 751px;
   border-right: 2px solid #e8eced;
   margin-right: 56px;
 }
-
 .main-section__text-field {
   position: absolute;
   top: 190px;
   left: 125px;
 }
-
 .text-field__author {
   color: #b4b4b4;
   font-family: "Proxima Nova";
@@ -155,14 +140,12 @@
   letter-spacing: 6.72px;
   font-weight: lighter;
 }
-
 .text-field__title {
   font-family: "Futura PT - Heavy";
   font-size: 78px;
   text-transform: uppercase;
   margin: 47px 0 10px 0;
 }
-
 .text-field__subtitle {
   color: #8f8f8f;
   font-family: Georgia italic;
@@ -170,14 +153,12 @@
   font-weight: lighter;
   margin: 0 0 50px 0;
 }
-
 .text-field__text {
   max-width: 850px;
   text-align: justify;
   font-family: Georgia;
   font-size: 27px;
 }
-
 .text__italic {
   font-style: italic;
 }
