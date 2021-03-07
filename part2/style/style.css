@@ -1,6 +1,5 @@
 @font-face {
   font-family: "Proxima Nova";
-
   src: url("https://nomail.com.ua/files/eot/dc38e71c06219d82fe9ec4c3375e98af.eot?#iefix")
       format("embedded-opentype"),
     url("https://nomail.com.ua/files/woff/dc38e71c06219d82fe9ec4c3375e98af.woff")
@@ -10,7 +9,6 @@
 }
 @font-face {
   font-family: "Playfair Display";
-
   src: url("https://nomail.com.ua/files/eot/8446d0665a61f525fc0f7a83465b45ac.eot?#iefix")
       format("embedded-opentype"),
     url("https://nomail.com.ua/files/woff/8446d0665a61f525fc0f7a83465b45ac.woff")
@@ -20,7 +18,6 @@
 }
 @font-face {
   font-family: "Futura PT - Heavy";
-
   src: url("https://nomail.com.ua/files/eot/77c39d7d46ba8c98529571e14b59cb99.eot?#iefix")
       format("embedded-opentype"),
     url("https://nomail.com.ua/files/woff/77c39d7d46ba8c98529571e14b59cb99.woff")
@@ -30,7 +27,6 @@
 }
 @font-face {
   font-family: Georgia italic;
-
   src: url("https://nomail.com.ua/files/eot/35ac14f8a045f0a3f8f171d6b32dd09f.eot?#iefix")
       format("embedded-opentype"),
     url("https://nomail.com.ua/files/woff/35ac14f8a045f0a3f8f171d6b32dd09f.woff")
@@ -41,7 +37,6 @@
 
 @font-face {
   font-family: "Georgia";
-
   src: url("https://nomail.com.ua/files/eot/de6243382a94fdc4813e4cbd4ff7d919.eot?#iefix")
       format("embedded-opentype"),
     url("https://nomail.com.ua/files/woff/de6243382a94fdc4813e4cbd4ff7d919.woff")
@@ -173,7 +168,6 @@
   font-family: Georgia italic;
   font-size: 30px;
   font-weight: lighter;
-
   margin: 0 0 50px 0;
 }
 
