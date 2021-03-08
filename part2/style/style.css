@@ -66,7 +66,7 @@
 }
 .top-section__title {
   color: #767676;
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova", sans-serif;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 4.8px;
@@ -76,7 +76,7 @@
 .top-section__input {
   color: #fefefe;
   font-size: 48px;
-  font-family: "Playfair Display";
+  font-family: "Playfair Display", serif;
   font-weight: 400;
   margin: 0;
   border-right: solid 2px #edeff2;
