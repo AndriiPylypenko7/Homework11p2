@@ -134,21 +134,21 @@
 }
 .text-field__author {
   color: #b4b4b4;
-  font-family: "Proxima Nova";
+  font-family: "Proxima Nova", sans-serif;
   font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 6.72px;
   font-weight: lighter;
 }
 .text-field__title {
-  font-family: "Futura PT - Heavy";
+  font-family: "Futura PT - Heavy", sans-serif;
   font-size: 78px;
   text-transform: uppercase;
   margin: 47px 0 10px 0;
 }
 .text-field__subtitle {
   color: #8f8f8f;
-  font-family: Georgia italic;
+  font-family: Georgia italic, serif;
   font-size: 30px;
   font-weight: lighter;
   margin: 0 0 50px 0;
@@ -156,7 +156,7 @@
 .text-field__text {
   max-width: 850px;
   text-align: justify;
-  font-family: Georgia;
+  font-family: Georgia, serif;
   font-size: 27px;
 }
 .text__italic {
